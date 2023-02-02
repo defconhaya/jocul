@@ -46,8 +46,8 @@ class HUD:
 
 
     def run(self, dt):
-        #draw hud        
-        pygame.draw.rect(self.surf, "orange", self.rect)
+        #draw hud bkg
+        pygame.draw.rect(self.surf, "orange", self.rect, border_radius = HUD_RADIUS)
 
         #draw level
         self.level.run(dt)
