@@ -1,6 +1,6 @@
 ## The Game
 Map created with [Tiled](https://www.mapeditor.org/)
 
-H<sup>2</sup>SO<sup>4</sup>
+H<sub>2</sub>SO<sub>4</sub>
 
 :desktop_computer:
