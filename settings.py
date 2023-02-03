@@ -16,6 +16,8 @@ MENU_SCALE = Vector2(0.7, 0.5)
 MENU_POS = SCREEN / 2
 MENU_RADIUS = 10
 
+#player
+START_POS = Vector2(640, 360)
 
 menu_entries ={"Start":None,
                 "Options":None,
